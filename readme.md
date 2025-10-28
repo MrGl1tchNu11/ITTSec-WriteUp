@@ -152,8 +152,8 @@ ITTSecCTF/
 
 _Keep hacking, keep learning! 🐺⚡_
 
-[![Star this repo](https://img.shields.io/github/stars/MrGl1tchNu11/ITTSec-CaptureTheFlag?style=social)](https://github.com/MrGl1tchNu11/ITTSec-CaptureTheFlag)
-[![Fork this repo](https://img.shields.io/github/forks/MrGl1tchNu11/ITTSec-CaptureTheFlag?style=social)](https://github.com/MrGl1tchNu11/ITTSec-CaptureTheFlag)
+[![Star this repo](https://img.shields.io/github/stars/MrGl1tchNu11/ITTSec-WriteUp?style=social)](https://github.com/MrGl1tchNu11/ITTSec-WriteUp)
+[![Fork this repo](https://img.shields.io/github/forks/MrGl1tchNu11/ITTSec-WriteUp?style=social)](https://github.com/MrGl1tchNu11/ITTSec-WriteUp)
 
 _Made with 💜 by MrGl1tchNu11_
 
